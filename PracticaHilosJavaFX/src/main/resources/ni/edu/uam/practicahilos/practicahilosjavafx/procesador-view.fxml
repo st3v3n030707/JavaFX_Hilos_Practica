@@ -3,7 +3,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.geometry.Insets?>
 <VBox xmlns:fx="http://javafx.com/fxml"
-      fx:controller="ni.edu.uam.practicahilos.ProcesadorController"
+      fx:controller="ni.edu.uam.practicahilos.practicahilosjavafx.ProcesadorController"
       alignment="CENTER" spacing="20" prefWidth="520" prefHeight="350">
     <padding>
         <Insets top="25" right="25" bottom="25" left="25"/>
